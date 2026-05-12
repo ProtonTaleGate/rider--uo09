@@ -1,4 +1,4 @@
-# 
+# automatic JetBrains Rider for PC | JetBrains Rider for Windows Tool | multi-language-support + code-completion is the best JetBrains Rider for PC | JetBrains Rider for Windows
 
 
 
